@@ -1,46 +1,141 @@
-# Song-Downloader-Bot
+<!-- ========================================================================= -->
+<!--                        SONG-DOWNLOADER — README                            -->
+<!--       Cyberpunk Premium Theme  |  Animated SVGs  |  Live Badges          -->
+<!-- ========================================================================= -->
 
-A BOT TO DOWNLOAD SONGS FROM YOUTUBE. 
+<div align="center">
 
-# Mandatory variables 
+<!-- ============================== BANNER ============================== -->
 
-- API_ID - Get It From [my.telegram.org](https://my.telegram.org)
-- API_HASH - Get It From [my.telegram.org](https://my.telegram.org) 
-- BOT_TOKEN - Get It From [@Botfather](https://t.me/BOTFATHER)
-- DB_URI - Mongo Database URL from [https://cloud.mongodb.com/](https://cloud.mongodb.com/) 
-- OWNER_ID - Get This From [NAZRIYANAZEEMBOT](https://t.me/NAZRIYANAZEEMBOT) By using /id command on bot pm. 
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:002211,100:000000&height=180&section=header&text=Song-Downloader&fontSize=48&fontColor=00FF88&fontAlignY=38&animation=fadeIn" width="100%"/>
 
+<!-- ============================== TYPING SVG ============================== -->
 
-# Feautures 
+<br/>
 
-- Song Downloader. 
-- YouTube video Downloader. 
-- Lyrics scrapping. 
-- Inline YouTube serch. 
-- Broadcast Message To users. 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space%20Mono&weight=500&size=22&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%3E%20Welcome%20to%20Song-Downloader%20%F0%9F%9A%80;%3E%20Built%20using%20Code%20%7C%20Optimized%20%26%20Secure;%3E%20A%20bot%20to%20download%20songs%20from%20YouTube%20to%20...)](https://github.com/VarshuAi/Song-Downloader)
 
-# Credits 
+<br/>
 
-- [Muhammed](https://github.com/PR0FESS0R-99). 
-- [Pyrogram](https://github.com/pyrogram/pyrogram) and For [Me](https://github.com/MR-JINN-OF-TG). 
+![Version](https://img.shields.io/badge/Version-1.0-00FF88?style=for-the-badge&logo=github&logoColor=black)
+![Language](https://img.shields.io/badge/Code-Tech-00CC66?style=for-the-badge&logo=code&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002211,100:000000&height=60&section=header&text=&fontSize=0" width="100%"/>
 
-# Deploy To Heroku
+</div>
 
-<details><summary>Deploy To Heroku</summary>
-<p>
+<!-- ============================== ABOUT ============================== -->
+
+<h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<samp>&nbsp;ABOUT</samp>
+</h2>
+
+```yaml
+name: Song-Downloader
+version: 1.0
+type: Repository
+author: VarshuAi
+description: >
+  A bot to download songs from YouTube to telegram.
+primary_tech: Code
+```
+
+<!-- ============================== CENTRAL GRAPHIC ============================== -->
+
+<div align="center">
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MR-JINN-OF-TG/Song-Downloader">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VarshuAi&repo=Song-Downloader&theme=react-dark&bg_color=000000&color=00FF88&line=00FF88&point=00CC66)](https://github.com/VarshuAi/Song-Downloader)
+<br>
+</div>
 
-# Deploy To Heroku Tutorial 
+<!-- ============================== FEATURES ============================== -->
 
-[CLICK HERE TO WATCH THE VIDEO](https://youtu.be/JEEBTAZFQH0) 
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+<samp>&nbsp;FEATURES</samp>
+</h2>
 
+- ⚡ **Optimized Operations** — Engineered for performance and stability.
+- 🎨 **Sleek Interface & Theme** — Built using VarshuAi standard aesthetics.
+- 🔒 **Zero-Dependency Core** — Minimal setup complexity.
 
-# support Group
+<!-- ============================== COMMANDS ============================== -->
 
-- [Click Here To Reach Our Support Group](https://t.me/NAZRIYASUPPORT) 
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+<samp>&nbsp;COMMANDS & USAGE</samp>
+</h2>
+
+```bash
+# Clone the repository structure
+git clone https://github.com/VarshuAi/Song-Downloader.git
+cd Song-Downloader
+```
+
+<!-- ============================== TECH STACK ============================== -->
+
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+<samp>&nbsp;TECH STACK</samp>
+</h2>
+
+<div align="center">
+
+#### `>> SYSTEM INVENTORY`
+![Code](https://img.shields.io/badge/Code-Primary_Language-00FF88?style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/Git-VCS-00CC66?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<!-- ============================== SETUP ============================== -->
+
+<h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
+<samp>&nbsp;SETUP</samp>
+</h2>
+
+```bash
+# 1. Clone repository remote
+git clone https://github.com/VarshuAi/Song-Downloader.git
+cd Song-Downloader
+
+# 2. Check technical prerequsites
+# Ensure runtime matches requirements (Code)
+```
+
+<!-- ============================== STRUCTURE ============================== -->
+
+<h2>
+<samp>&nbsp;📁 STRUCTURE</samp>
+</h2>
+
+```
+Song-Downloader/
+├── src/             # Source code entrypoints
+├── docs/            # Project documentation files
+├── README.md        # Interactive readme sheet
+└── LICENSE          # Permission details
+```
+
+<!-- ============================== FOOTER ============================== -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:002211,100:000000&height=80&section=footer&text=&fontSize=0" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space%20Mono&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite.)](https://github.com/VarshuAi)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/VarshuAi-Profile-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi)
+[![Repo](https://img.shields.io/badge/Song-Downloader-Repo-00CC66?style=for-the-badge&logo=github&logoColor=black)](https://github.com/VarshuAi/Song-Downloader)
+
+<br/>
+
+</div>
