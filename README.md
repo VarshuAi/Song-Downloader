@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A bot to download songs from YouTube to telegram.
+  name: Song-Downloader version: 1.0 type: Repository author: VarshuAi description: >   A bot to download songs from YouTube to telegram. primary_tech: Python
 primary_tech: Python
 ```
 
